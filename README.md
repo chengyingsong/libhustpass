@@ -13,9 +13,9 @@ python setup.py install
 
 ## Usage
 
-'''
+```
 python bandminton.py
-'''
+```
 
 ## License
 
