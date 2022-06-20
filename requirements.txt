@@ -1,3 +1,5 @@
 pillow
 pytesseract
 requests
+tesseract
+pyexecjs
